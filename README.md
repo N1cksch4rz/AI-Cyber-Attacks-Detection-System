@@ -24,8 +24,8 @@ Customization: We aim to provide customizable configurations, allowing users to 
 
 
 
-                                                 "Hello Human, I am an AI system. Please, show me you identification. State the reason of your visit in this system."
-
+                                                 "Hello Human, I am an AI system. Please, show me you identification. 
+                                                 State the reason of your visit in this system."
                                   _____         /
                                  |     |       /
                                  | | | |      /
