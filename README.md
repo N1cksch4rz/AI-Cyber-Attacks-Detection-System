@@ -20,7 +20,7 @@ User-friendly Interface: We're working on a user-friendly web-based interface to
 Customization: We aim to provide customizable configurations, allowing users to tailor the system to their specific network and security needs.
 
                                                  "Hello Human, I am an AI system. 
-                                                  Please, show me you identification. 
+                                                  Please, show me your identification. 
                                                   State the reason of your visit in this system."
                                   _____         /
                                  |     |       /
