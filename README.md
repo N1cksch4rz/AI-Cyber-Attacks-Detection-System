@@ -15,13 +15,47 @@ Deep Learning Integration: Our next major update will introduce Deep Learning te
 User-friendly Interface: We're working on a user-friendly web-based interface to make it easier for security teams to visualize and manage threats, enabling better decision-making and rapid response.
 Customization: We aim to provide customizable configurations, allowing users to tailor the system to their specific network and security needs.
 
-            .-""-.
-           / .--. \
-          / /    \ \
-          | |    | |
-          | |.-""-.|
-         ///`.::::.`\
-        ||| ::/  \:: ;
-        ||; ::\__/:: ;
-         \\\ '::::' /
-           `=':-..-'`
+
+
+
+   __
+ /    \
+| STOP |      
+ \ __ /
+   ||
+   ||
+   ||
+   ||
+   ||
+ ~~~~~~~
+
+
+
+
+
+                                                 "Hello Human, show me you identification. State the reason of your visit in this system."
+
+                                  _____         /
+                                 |     |       /
+                                 | | | |      /
+                                 |_____|
+                           ____ ___|_|___ ____
+                          ()___)         ()___)
+                          // /|           |\ \\
+                         // / |           | \ \\
+                        (___) |___________| (___)
+                        (___)   (_______)   (___)
+                        (___)     (___)     (___)
+                        (___)      |_|      (___)
+                        (___)  ___/___\___   | |
+                         | |  |           |  | |
+                         | |  |___________| /___\
+                        /___\  |||     ||| //   \\
+                       //   \\ |||     ||| \\   //
+                       \\   // |||     |||  \\ //
+                        \\ // ()__)   (__()
+                              ///       \\\
+                             ///         \\\
+                           _///___     ___\\\_
+                          |_______|   |_______|
+
