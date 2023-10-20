@@ -14,3 +14,14 @@ Our commitment to enhancing cyber defense doesn't stop here. We have exciting pl
 Deep Learning Integration: Our next major update will introduce Deep Learning techniques, such as Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs), to improve detection accuracy and extend our capabilities to recognize complex, previously unseen attack patterns.
 User-friendly Interface: We're working on a user-friendly web-based interface to make it easier for security teams to visualize and manage threats, enabling better decision-making and rapid response.
 Customization: We aim to provide customizable configurations, allowing users to tailor the system to their specific network and security needs.
+
+            .-""-.
+           / .--. \
+          / /    \ \
+          | |    | |
+          | |.-""-.|
+         ///`.::::.`\
+        ||| ::/  \:: ;
+        ||; ::\__/:: ;
+         \\\ '::::' /
+           `=':-..-'`
