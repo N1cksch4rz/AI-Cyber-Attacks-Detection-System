@@ -15,16 +15,7 @@ Deep Learning Integration: Our next major update will introduce Deep Learning te
 User-friendly Interface: We're working on a user-friendly web-based interface to make it easier for security teams to visualize and manage threats, enabling better decision-making and rapid response.
 Customization: We aim to provide customizable configurations, allowing users to tailor the system to their specific network and security needs.
 
-
-
-
-
-
-
-
-
-
-                                                 "Hello Human, I am an AI system. Please, show me you identification. 
+                                  "Hello Human, I am an AI system. Please, show me you identification. 
                                                  State the reason of your visit in this system."
                                   _____         /
                                  |     |       /
