@@ -12,9 +12,6 @@ Scalable and Efficient: Our solution is designed to scale with the ever-increasi
 
 **Future Updates**
 
-
-Our commitment to enhancing cyber defense doesn't stop here. We have exciting plans for the project's future:
-
 Deep Learning Integration: Our next major update will introduce Deep Learning techniques, such as Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs), to improve detection accuracy and extend our capabilities to recognize complex, previously unseen attack patterns.
 
 User-friendly Interface: We're working on a user-friendly web-based interface to make it easier for security teams to visualize and manage threats, enabling better decision-making and rapid response.
